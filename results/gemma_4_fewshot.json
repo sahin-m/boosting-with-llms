@@ -1,0 +1,66 @@
+{
+    "numeric": {
+        "F1-Score": 0.938,
+        "Precision": 0.931,
+        "Recall": 0.949,
+        "Accuracy": 0.945
+    },
+    "categorical": {
+        "F1-Score": 0.908,
+        "Precision": 0.905,
+        "Recall": 0.912,
+        "Accuracy": 0.933
+    },
+    "datetime": {
+        "F1-Score": 0.953,
+        "Precision": 0.93,
+        "Recall": 0.978,
+        "Accuracy": 0.984
+    },
+    "sentence": {
+        "F1-Score": 0.902,
+        "Precision": 0.875,
+        "Recall": 0.936,
+        "Accuracy": 0.981
+    },
+    "url": {
+        "F1-Score": 0.975,
+        "Precision": 0.953,
+        "Recall": 0.999,
+        "Accuracy": 0.998
+    },
+    "embedded-number": {
+        "F1-Score": 0.932,
+        "Precision": 0.911,
+        "Recall": 0.96,
+        "Accuracy": 0.984
+    },
+    "list": {
+        "F1-Score": 0.91,
+        "Precision": 0.863,
+        "Recall": 0.975,
+        "Accuracy": 0.996
+    },
+    "not-generalizable": {
+        "F1-Score": 0.905,
+        "Precision": 0.965,
+        "Recall": 0.865,
+        "Accuracy": 0.97
+    },
+    "context-specific": {
+        "F1-Score": 0.555,
+        "Precision": 0.556,
+        "Recall": 0.556,
+        "Accuracy": 0.892
+    },
+    "direct": {
+        "F1-Score": 0.833,
+        "Precision": 0.825,
+        "Recall": 0.856,
+        "Accuracy": 0.882
+    },
+    "Macro Avg. F1-Score 9 Binary Classes": 0.886,
+    "Macro Avg. Precision 9 Binary Classes": 0.877,
+    "Macro Avg. Recall 9 Binary Classes": 0.903,
+    "Macro Avg. Accuracy 9 Binary Classes": 0.965
+}
