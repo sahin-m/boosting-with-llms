@@ -184,11 +184,9 @@ This folder contains the benchmark dataset and its train-test split provided in 
 -   **data_test.csv**: The test data.
 -   **all_data.csv**: A combined version of both the training and test data.
 
-### `resources/`
+### `resources/Dictionary/`
 
 This directory contains pretrained models / vectorizers from the original [SortingHat](https://dl.acm.org/doi/10.1145/3448016.3457274) paper :
-
-- **Dictionary/**: Contains the pretrained vectorizers, including the bi-gram vectorizer in SortingHat.
 
 
 ### `batches/`
