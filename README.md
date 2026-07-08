@@ -1,4 +1,3 @@
-
 # Boosting with LLMs: A Hybrid LLM-Boosting System for Automated Feature Type Inference
 
 ## Table of Contents
@@ -39,7 +38,6 @@ For additional details and a comprehensive discussion of the methodology and res
 │   ├── Dictionary/
 │   │   ├── dictionaryName.pkl
 │   │   ├── dictionarySample.pkl
-│   ├── RandomForest.pkl
 ├── batches/
 │   ├── llm_feature_runner.py
 │   ├── run_llm.sh
@@ -188,10 +186,9 @@ This folder contains the benchmark dataset and its train-test split provided in 
 
 ### `resources/`
 
-This directory contains pretrained models and vectorizers from the original [SortingHat](https://dl.acm.org/doi/10.1145/3448016.3457274) paper :
+This directory contains pretrained models / vectorizers from the original [SortingHat](https://dl.acm.org/doi/10.1145/3448016.3457274) paper :
 
 - **Dictionary/**: Contains the pretrained vectorizers, including the bi-gram vectorizer in SortingHat.
-- **RandomForest.pkl**: The pretrained Random Forest model used in SortingHat.
 
 
 ### `batches/`
