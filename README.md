@@ -186,7 +186,7 @@ This folder contains the benchmark dataset and its train-test split provided in 
 
 ### `resources/Dictionary/`
 
-This directory contains pretrained models / vectorizers from the original [SortingHat](https://dl.acm.org/doi/10.1145/3448016.3457274) paper :
+This directory contains pretrained models / vectorizers from the original [SortingHat](https://dl.acm.org/doi/10.1145/3448016.3457274) paper.
 
 
 ### `batches/`
